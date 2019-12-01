@@ -1,0 +1,5 @@
+Connecting to Partov server at 213.233.171.91:7890
+           to map/node "BGP_Simple"/"node10" ... [Done]
+Signing in... [Done]
+Selecting map... [Failed]
++++ Initial negotiations failed (map not exists). [error code 5]

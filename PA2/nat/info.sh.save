@@ -1,0 +1,5 @@
+user=file:///home/farid/network/ce443-962-handouts/PA2/CF/nat/a file:///home/farid/network/ce443-962-handouts/PA2/CF/nat/free.sh file:///home/farid/network/ce443-962-handouts/PA2/CF/nat/info.sh file:///home/farid/network/ce443-962-handouts/PA2/CF/nat/Nat.class file:///home/farid/network/ce443-962-handouts/PA2/CF/nat/new.sh file:///home/farid/network/ce443-962-handouts/PA2/CF/nat/README.md file:///home/farid/network/ce443-962-handouts/PA2/CF/nat/run.sh 
+pass=
+map=Hole_Punching_Simple
+ip=213.233.171.91
+port=7890
